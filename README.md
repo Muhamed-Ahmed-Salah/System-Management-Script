@@ -44,7 +44,7 @@ Run the script:
 - If run as a regular user, User Mode 👤 will be activated.
 
 ## 📝 Logging 📝
-- Actions are logged in `/home/muhamed/Embedded_linux/projects/bash/log.txt`. 🗂️
+- Actions are logged in `/home/log.txt`. 🗂️
 
 ## 🤝 Contributing 🤝
 1. Fork 🍴 the repository.
